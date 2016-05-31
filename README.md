@@ -27,4 +27,4 @@ php artisan vendor:publish
 ```
 
 ## Thanks to
- - caouecs for (Laravel Language)[https://github.com/caouecs/Laravel-lang]
+ - caouecs for [Laravel Language](https://github.com/caouecs/Laravel-lang)
