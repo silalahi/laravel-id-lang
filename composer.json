@@ -5,7 +5,7 @@
     "keywords": ["localization", "laravel", "indonesian"],
     "require": {
         "laravel/framework": "5.2.*",
-        "php": ">=5.5.9",
+        "php": ">=5.5.9"
     },
     "license": "MIT",
     "autoload": {
