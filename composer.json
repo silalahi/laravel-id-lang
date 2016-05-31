@@ -1,0 +1,22 @@
+{
+    "name": "silalahi/laravel-id-lang",
+    "description": "Indonesian language localization for Laravel 5",
+    "type": "library",
+    "keywords": ["localization", "laravel", "indonesian"],
+    "require": {
+        "laravel/framework": "5.2.*",
+        "php": ">=5.5.9",
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Silalahi\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jogi Silalahi",
+            "email": "jogi@pistarlabs.com"
+        }
+    ]
+}
