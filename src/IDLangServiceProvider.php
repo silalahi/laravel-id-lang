@@ -13,4 +13,9 @@ class IDLangServiceProvider extends ServiceProvider
     ]);
   }
 
+  public function register()
+  {
+    
+  }
+
 }
